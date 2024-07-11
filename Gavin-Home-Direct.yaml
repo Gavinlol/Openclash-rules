@@ -1,6 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,bestemby.com                        # 媒体库
-  - DOMAIN-SUFFIX,SC-AI15.lan                         # 海马爸比
+  #- DOMAIN-SUFFIX,SC-AI15.lan                         # 海马爸比
   - DOMAIN-SUFFIX,roborock-vacuum-a76.lan             # 石头扫地机器人
   - DOMAIN-SUFFIX,xiaomi-waterpuri-lx20_mibtB0A9.lan  # 小米净水器
   - DOMAIN-SUFFIX,X4T-CN-TCA0023A.lan                 # Dyson
