@@ -17,3 +17,8 @@ payload:
   - DOMAIN-SUFFIX,Aqara_Hub_E1-B78C.lan               # 入户花园-网关
   - DOMAIN-SUFFIX,Aqara_Hub_E1-3704.lan               # 饭厅-网关
   - DOMAIN-SUFFIX,Aqara_Hub_E1-CA74.lan               # 主卧-网关
+  - DOMAIN-SUFFIX,51jobapp.com
+  - DOMAIN-SUFFIX,getui.com
+  - DOMAIN-SUFFIX,liepin.com
+  - DOMAIN-SUFFIX,volces.com
+  - DOMAIN-SUFFIX,lietou-static.com
