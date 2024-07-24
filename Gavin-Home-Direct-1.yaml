@@ -24,3 +24,4 @@ payload:
   - DOMAIN-SUFFIX,lietou-static.com
 
   - DOMAIN-SUFFIX,roborock.com
+  - DOMAIN-SUFFIX,stun.iotcloud.tencentdevices.com  # 海马爸比
