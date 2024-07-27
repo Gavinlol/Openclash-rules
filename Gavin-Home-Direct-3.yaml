@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,roborock.com
   - DOMAIN-SUFFIX,stun.iotcloud.tencentdevices.com   # 海马爸比
   - DOMAIN-SUFFIX,stun.iotcloud.tencentiotcloud.com  # 海马爸比
+  - DOMAIN-SUFFIX,ottcn.com # 咪咕视频
